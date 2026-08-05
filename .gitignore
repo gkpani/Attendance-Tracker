@@ -1,0 +1,5 @@
+node_modules
+.env
+attendance-server/.env
+attendance-server/node_modules
+attendance-web/node_modules
