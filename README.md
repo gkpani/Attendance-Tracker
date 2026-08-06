@@ -38,15 +38,28 @@ GPS verification - Clicking "View Map" opens exact location on Google Maps: 23.0
 
 
 ---
+## ✨ Key Features
 
-✨ Key Features
-Employee login with JWT authentication
-GPS-based check-in and check-out
-Automatic latitude, longitude, and timestamp capture
-Admin dashboard with attendance table
-Clickable Google Maps location links
-Attendance history API for employees
-MongoDB Atlas cloud database integration
+- **Employee Authentication**
+  - Secure login using **JWT (JSON Web Tokens)**.
+
+- **GPS-Based Attendance**
+  - Employees can perform **Check-In** and **Check-Out** with live GPS coordinates.
+
+- **Automatic Location Capture**
+  - Stores **latitude, longitude, date, and timestamp** automatically.
+
+- **Admin Dashboard**
+  - Displays attendance records in a structured table with employee details.
+
+- **Google Maps Integration**
+  - Clickable map links open the exact attendance location in **Google Maps**.
+
+- **Attendance History API**
+  - Employees can view their personal attendance history through protected APIs.
+
+- **Cloud Database**
+  - Uses **MongoDB Atlas** for secure cloud-based data storage and management.
 
 ---
 
