@@ -6,11 +6,13 @@ A complete employee attendance management system with real-time GPS location tra
 🔗 **GitHub:** https://github.com/gkpani/Attendance-Tracker  
 📍 **GPS Verified:** 23.0225, 72.5714 (Ahmedabad, Gujarat - Sabarmati Riverfront area)
 
-### 🔗 Live Proof
-- **Backend:** Node.js + Express on localhost:5000 - MongoDB Connected
-- **Frontend:** React + Vite Admin Dashboard on localhost:5173
-- **GPS Integration:** Google Maps with real-time coordinates
 
+🧪 Demo / Tested Locally
+Backend: Node.js + Express API tested on localhost:5000
+Frontend: React + Vite dashboard tested on localhost:5173
+Database: MongoDB Atlas connection verified
+GPS: Browser geolocation captured and displayed on Google Maps
+-
 ---
 
 ## 📸 Screenshots
