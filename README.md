@@ -7,15 +7,21 @@ A complete employee attendance management system with real-time GPS location tra
 📍 **GPS Verified:** 23.0225, 72.5714 (Ahmedabad, Gujarat - Sabarmati Riverfront area)
 
 ---
-🧪 Demo / Tested Locally
--
-  Backend:    Node.js + Express API tested on localhost:5000
-           
-  Frontend:   React + Vite dashboard tested on localhost:5173
-  
-  Database:   MongoDB Atlas connection verified
-  
-  GPS:        Browser geolocation captured and displayed on Google Maps
+## 🧪 Demo / Tested Locally
+
+The application has been successfully tested in a local development environment.
+
+- **Backend API**
+  - Node.js + Express server running on **`localhost:5000`**
+
+- **Frontend Dashboard**
+  - React + Vite application running on **`localhost:5173`**
+
+- **Database Connectivity**
+  - **MongoDB Atlas** connection verified successfully
+
+- **GPS Verification**
+  - Browser geolocation captured and displayed on **Google Maps** with real-time coordinates
 
 ---
 
