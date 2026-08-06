@@ -23,7 +23,7 @@ A complete employee attendance management system with real-time GPS location tra
 
 ### 1. Terminal - Backend Running: Connected + ALL TESTS DONE
 Backend server running on port 5000, MongoDB Atlas connected, full attendance flow tested - Check-in with GPS.
-
+Backend Terminal Tests
 ![Backend Terminal Tests](./screenshots/01-terminal.png)
 
 ### 2. Admin Dashboard: Table showing Ramesh Kumar | View Map - 23.0225, 72.5714
