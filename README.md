@@ -1,6 +1,6 @@
 # Attendance Tracker System with GPS - Full Stack MERN Project
 
-A complete employee attendance management system with real-time GPS location tracking, built with MERN Stack. Verified 5-star project on Lancerank.
+A complete employee attendance management system with real-time GPS location tracking, built with MERN Stack. Verified 5-star project on Lancerank (1 vouched review).
 
 ✅ **Lancerank Status:** 1 TOTAL / 1 VOUCHED / 5 Stars  
 🔗 **GitHub:** https://github.com/gkpani/Attendance-Tracker  
@@ -94,4 +94,4 @@ Gadadhar Kandhapani - MERN Stack Developer
 
 GitHub: @gkpani
 Lancerank: Vouched 5 Stars
-Built with ❤️ - Clean, Secure, Production-Ready Code
+Built with ❤️ - using clean, secure, and maintainable MERN stack practices
