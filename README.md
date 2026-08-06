@@ -39,6 +39,17 @@ GPS verification - Clicking "View Map" opens exact location on Google Maps: 23.0
 
 ---
 
+✨ Key Features
+Employee login with JWT authentication
+GPS-based check-in and check-out
+Automatic latitude, longitude, and timestamp capture
+Admin dashboard with attendance table
+Clickable Google Maps location links
+Attendance history API for employees
+MongoDB Atlas cloud database integration
+
+---
+
 ## 🛠️ Tech Stack
 - **Backend:** Node.js, Express.js, MongoDB Atlas, Mongoose, JWT Authentication
 - **Frontend:** React, Vite, CSS
