@@ -10,10 +10,13 @@ A complete employee attendance management system with real-time GPS location tra
 🧪 Demo / Tested Locally
 -
   Backend: Node.js + Express API tested on localhost:5000
+           -
   Frontend: React + Vite dashboard tested on localhost:5173
+  
   Database: MongoDB Atlas connection verified
+  
   GPS: Browser geolocation captured and displayed on Google Maps
--
+
 ---
 
 ## 📸 Screenshots
