@@ -28,7 +28,7 @@ Admin dashboard displaying employee attendance logs with date, employee email, c
 ### 3. GPS Proof: Google Maps pin at 23°01'21.0"N 72°34'17.0"E - Ahmedabad
 GPS verification - Clicking "View Map" opens exact location on Google Maps: 23.022500, 72.571400 near Sabarmati Riverfront, Ahmedabad.
 
-![GPS Map Proof](./screenshots/03-map.png)
+![GPS Map Proof](./screenshots/03-gps-map.png)
 
 
 ---
