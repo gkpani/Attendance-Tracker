@@ -1,10 +1,22 @@
-# Attendance Tracker System with GPS - Full Stack MERN Project
+# 📍 Attendance Tracker System with GPS
 
-A complete employee attendance management system with real-time GPS location tracking, built with MERN Stack. Verified 5-star project on Lancerank (1 vouched review).
+A **full-stack MERN employee attendance management system** with **real-time GPS location tracking**, **secure JWT authentication**, and an **admin dashboard** for monitoring employee attendance records.
 
-✅ **Lancerank Status:** 1 TOTAL / 1 VOUCHED / 5 Stars  
-🔗 **GitHub:** https://github.com/gkpani/Attendance-Tracker  
-📍 **GPS Verified:** 23.0225, 72.5714 (Ahmedabad, Gujarat - Sabarmati Riverfront area)
+---
+
+## 🚀 Project Highlights
+
+- ⭐ **LanceRank:** **1/1 Vouched Review • 5 Stars**
+- 🔗 **GitHub Repository:** [Attendance-Tracker](https://github.com/gkpani/Attendance-Tracker)
+- 📍 **GPS Verified:** **23.0225, 72.5714**
+  - *Ahmedabad, Gujarat — Sabarmati Riverfront Area*
+- 🛠️ **Technology Stack:** **React • Vite • Node.js • Express • MongoDB Atlas • JWT**
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates a practical **field employee attendance solution** where employees can check in and check out using their device GPS, while administrators can monitor attendance records through a centralized dashboard.
 
 ---
 ## 🧪 Demo / Tested Locally
