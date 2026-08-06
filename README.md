@@ -23,18 +23,18 @@ A complete employee attendance management system with real-time GPS location tra
 
 ### 1. Terminal - Backend Running: Connected + ALL TESTS DONE
 Backend server running on port 5000, MongoDB Atlas connected, full attendance flow tested - Check-in with GPS.
-Backend Terminal Tests
-![Backend Terminal Tests](./screenshots/01-terminal.png)
+
+🔗 [Backend Terminal Tests](./screenshots/01-terminal.png)
 
 ### 2. Admin Dashboard: Table showing Ramesh Kumar | View Map - 23.0225, 72.5714
 Admin dashboard displaying employee attendance logs with date, employee email, check-in time, and clickable Map location.
 
-![Admin Dashboard](./screenshots/02-dashboard.png)
+🔗 [Admin Dashboard](./screenshots/02-dashboard.png)
 
 ### 3. GPS Proof: Google Maps pin at 23°01'21.0"N 72°34'17.0"E - Ahmedabad
 GPS verification - Clicking "View Map" opens exact location on Google Maps: 23.022500, 72.571400 near Sabarmati Riverfront, Ahmedabad.
 
-![GPS Map Proof](./screenshots/03-gps-map.png)
+🔗 [GPS Map Proof](./screenshots/03-gps-map.png)
 
 
 ---
